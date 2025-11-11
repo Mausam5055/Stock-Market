@@ -83,11 +83,6 @@ graph TB
 
 ## 📊 System Components
 
-### 1. Dashboard & Market Overview
-
-<div align="center">
-  <img src="public/readme/thumbnail.webp" alt="Dashboard" width="80%" />
-</div>
 
 The dashboard provides a comprehensive overview of the financial markets with multiple widgets:
 
@@ -103,11 +98,7 @@ graph LR
     style D fill:#EF4444,stroke:#000,color:#fff
 ```
 
-### 2. Watchlist Management
 
-<div align="center">
-  <img src="public/readme/module-thumbnail.webp" alt="Watchlist" width="80%" />
-</div>
 
 The watchlist system allows users to:
 
@@ -118,11 +109,6 @@ The watchlist system allows users to:
 | **Custom Columns** | View price, change, market cap, P/E ratio, and more |
 | **News Integration** | See relevant news for stocks in your watchlist |
 
-### 3. Alert System
-
-<div align="center">
-  <img src="public/readme/jsmpro.webp" alt="Alerts" width="80%" />
-</div>
 
 The alert system provides automated notifications:
 
